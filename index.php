@@ -146,7 +146,7 @@ if (isset($_SERVER['HTTP_USER_AGENT']) && strpos($_SERVER['HTTP_USER_AGENT'], 'c
     </div>
   </div>
 
-  <script type="text/javascript" src="http://api.map.baidu.com/api?v=3.0&ak=ENTERYOURAKV"></script>##需要自行注册百度开发者账号填入AK
+  <script type="text/javascript" src="http://api.map.baidu.com/api?v=3.0&ak=ENTERYOURS"></script>##需要自行注册百度开发者账号填入AK
   <script>
     function initMap() {
       var map = new BMap.Map("map");
